@@ -1,2 +1,17 @@
-# email-subject-lab
-Email subject line lab — generate, score and A/B test subject lines. Part of the Zion AI App Network (Batch 99).
+# Email Subject Lab
+
+AI email subject line lab — generate, score and A/B test subject lines; predicts open-rate lift.
+
+**Live app:** https://ziontechgroup.com/email-subject-lab/
+
+Part of the [Zion AI App Network](https://github.com/Zion-support/zion-app-network) — Batch 99 (Marketing & Growth AI).
+
+## Batch 99 suite
+- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/
+- [Ad Spend Optimizer](https://github.com/Zion-support/ad-spend-optimizer) — https://ziontechgroup.com/ad-spend-optimizer/
+- [Email Subject Lab](https://github.com/Zion-support/email-subject-lab) — https://ziontechgroup.com/email-subject-lab/
+- [Social Listening Radar](https://github.com/Zion-support/social-listening-radar) — https://ziontechgroup.com/social-listening-radar/
+- [Landing Page A/B Coach](https://github.com/Zion-support/landing-page-ab-coach) — https://ziontechgroup.com/landing-page-ab-coach/
+- [Referral Program AI](https://github.com/Zion-support/referral-program-ai) — https://ziontechgroup.com/referral-program-ai/
+
+Free AI Discovery: https://ziontechgroup.com/discovery/ · All apps: https://ziontechgroup.com/apps/ · © 2026 Zion Tech Group
