@@ -1,7 +1,10 @@
-# Zion App Network links
+# 🌐 Zion AI App Network
 
-Hub: https://github.com/Zion-support/zion-app-network
-Showcase: https://ziontechgroup.com/apps/october-2026-batch99.html
-Interlinks: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS-batch99-marketing-growth.md
-Discovery (free, always online): https://ziontechgroup.com/discovery/
-Plans: https://ziontechgroup.com/en/plans/
+- 🌐 Live: https://ziontechgroup.com/email-subject-lab/
+- 🗂️ Hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Restored D–E: https://ziontechgroup.com/zion-app-network/app/network-restored-d-e-2026-showcase.html
+- 🗺️ Master Directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+- 🔎 Discovery: https://ziontechgroup.com/discovery/
+- 🏠 Home: https://ziontechgroup.com
+
+Inspect README for documented status; publication is not proof of AI functionality.
